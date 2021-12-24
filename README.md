@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogesh Kaushik
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning NIP,CV
+- 🌱 I’m currently learning NLP,CV
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me :
 - Email : yogeshkaushik12121996@gmail.com
